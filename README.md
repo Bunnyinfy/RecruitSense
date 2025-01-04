@@ -1,6 +1,6 @@
-# Recruit Sense
+# RecruitSense
 
-Recruit Sense is an open-source platform designed to revolutionize the recruitment process through cutting-edge automation and intelligent technologies. It streamlines candidate assessments, enhances communication, and ensures security during recruitment rounds, making the hiring process efficient and transparent.
+RecruitSense is an open-source platform designed to revolutionize the recruitment process through cutting-edge automation and intelligent technologies. It streamlines candidate assessments, enhances communication, and ensures security during recruitment rounds, making the hiring process efficient and transparent.
 
 ## Features
 
